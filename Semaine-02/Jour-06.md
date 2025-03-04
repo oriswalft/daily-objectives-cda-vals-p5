@@ -8,15 +8,15 @@
 - [x] Comprendre le merge dans Git (approfondissement)
 - [x] Comprendre le rebase dans Git (quelle différence avec le merge ?)
   - [x] Savoir utiliser le `git rebase`
-- [ ] Comprendre la différence entre `git reset` et `git revert`
-- [ ] Savoir annuler des `commits` et/ou `merge commits` (déplacer le HEAD, https://ohshitgit.com/)
-- [ ] Comprendre l'utilité et le fonctionnement de `git stash`
-- [ ] Comprendre et utiliser le `git diff` (quelle utilité)
-- [ ] Comprendre la différence entre `git log` et `git show` + les flags principaux
-- [ ] Comprendre et utiliser le `git fetch`
-- [ ] `.gitignore` global ou pas ?
-- [ ] Comprendre quelle est la différence entre `git pull` et `git fetch`
-  - [ ] À quoi sert la commande `git fetch —prune`
+- [x] Comprendre la différence entre `git reset` et `git revert`
+- [x] Savoir annuler des `commits` et/ou `merge commits` (déplacer le HEAD, https://ohshitgit.com/)
+- [x] Comprendre l'utilité et le fonctionnement de `git stash`
+- [x] Comprendre et utiliser le `git diff` (quelle utilité)
+- [x] Comprendre la différence entre `git log` et `git show` + les flags principaux
+- [x] Comprendre et utiliser le `git fetch`
+- [x] `.gitignore` global ou pas ?
+- [x] Comprendre quelle est la différence entre `git pull` et `git fetch`
+  - [x] À quoi sert la commande `git fetch —prune`
   - [ ] Comment configurer mon git pour que ce soit fait automatiquement ?
 
 
