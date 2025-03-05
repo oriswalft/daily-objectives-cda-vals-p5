@@ -19,7 +19,7 @@
 - [ ] Configurer son git de manière avancée :
   - [x] Editeur par défaut (Nano, Vim, VsCode ou celui que vous voulez)
   - [x] Différenciateur (par ex : Delta)
-  - [ ] Aliases
+  - [x] Aliases
   - [x] Comprendre la différence entre config locale, globale et système
 - [ ] Choix workflow : Alias ou Lazygit (obligatoire un des deux)
 - [ ] Savoir travailler avec `git fetch`
