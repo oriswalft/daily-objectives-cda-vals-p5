@@ -16,15 +16,15 @@
 - [x] Découverte de LazyGit
   - [x] Installation et configuration
   - [x] Intégration dans son editeur / workflow
-- [ ] Configurer son git de manière avancée :
+- [x] Configurer son git de manière avancée :
   - [x] Editeur par défaut (Nano, Vim, VsCode ou celui que vous voulez)
   - [x] Différenciateur (par ex : Delta)
   - [x] Aliases
   - [x] Comprendre la différence entre config locale, globale et système
-- [ ] Choix workflow : Alias ou Lazygit (obligatoire un des deux)
-- [ ] Savoir travailler avec `git fetch`
+- [x] Choix workflow : Alias ou Lazygit (obligatoire un des deux)
+- [x] Savoir travailler avec `git fetch`
 
 ### IA
 
-- [ ] Découvrir le prompt engineering sur ChatGPT (https://learnprompting.org/fr/)
+- [x] Découvrir le prompt engineering sur ChatGPT (https://learnprompting.org/fr/)
 - [ ] Partager ses trucs et astuces sur l'utilisation des IAs
