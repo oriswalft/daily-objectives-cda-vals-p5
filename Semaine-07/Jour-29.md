@@ -3,11 +3,11 @@
 ## Lundi 07/04/2025 :
 
 ### Introduction à la méthode Merise
-- [ ] Comprendre les fondements de la méthode Merise
-  - [ ] Histoire et contexte d'apparition de Merise
-  - [ ] Principes fondamentaux de la méthode
-  - [ ] Les différents niveaux de modélisation (conceptuel, logique, physique)
-  - [ ] Avantages de Merise par rapport à d'autres méthodes
+- [x] Comprendre les fondements de la méthode Merise
+  - [x] Histoire et contexte d'apparition de Merise
+  - [x] Principes fondamentaux de la méthode
+  - [x] Les différents niveaux de modélisation (conceptuel, logique, physique)
+  - [x] Avantages de Merise par rapport à d'autres méthodes
 
 ### Concepts de base de la modélisation des données
 - [ ] Comprendre les fondements de la modélisation des données
