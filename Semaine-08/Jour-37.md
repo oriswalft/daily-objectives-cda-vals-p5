@@ -4,33 +4,37 @@
 
 ### SQL - Data Definition Language (DDL) avec PostgreSQL
 
-- [ ] Création et gestion des bases de données
-  - [ ] CREATE DATABASE
-  - [ ] DROP DATABASE
-  - [ ] Bonnes pratiques de nommage
+- [x] Création et gestion des bases de données
 
-- [ ] Création et modification de tables
-  - [ ] Types de données de base
-    - [ ] Numériques (INTEGER, DECIMAL)
-    - [ ] Texte (VARCHAR, TEXT)
-    - [ ] Dates (DATE, TIMESTAMP)
-    - [ ] Booléens
-  - [ ] CREATE TABLE
-  - [ ] ALTER TABLE
-    - [ ] Ajouter une colonne
-    - [ ] Modifier une colonne
-    - [ ] Supprimer une colonne
-  - [ ] DROP TABLE
+  - [x] CREATE DATABASE
+  - [x] DROP DATABASE
+  - [x] Bonnes pratiques de nommage
 
-- [ ] Gestion des contraintes
-  - [ ] PRIMARY KEY
-  - [ ] FOREIGN KEY
-  - [ ] NOT NULL
-  - [ ] UNIQUE
-  - [ ] DEFAULT
-  - [ ] CHECK (basique)
+- [x] Création et modification de tables
+
+  - [x] Types de données de base
+    - [x] Numériques (INTEGER, DECIMAL)
+    - [x] Texte (VARCHAR, TEXT)
+    - [x] Dates (DATE, TIMESTAMP)
+    - [x] Booléens
+  - [x] CREATE TABLE
+  - [x] ALTER TABLE
+    - [x] Ajouter une colonne
+    - [x] Modifier une colonne
+    - [x] Supprimer une colonne
+  - [x] DROP TABLE
+
+- [x] Gestion des contraintes
+
+  - [x] PRIMARY KEY
+  - [x] FOREIGN KEY
+  - [x] NOT NULL
+  - [x] UNIQUE
+  - [x] DEFAULT
+  - [x] CHECK (basique)
 
 - [ ] Index
+
   - [ ] Création d'index simples
   - [ ] Quand utiliser les index
   - [ ] Impact sur les performances
@@ -44,6 +48,7 @@
 ### SQL - Data Manipulation Language (DML) avec PostgreSQL
 
 - [ ] Requêtes de sélection (SELECT)
+
   - [ ] Structure de base
     - [ ] SELECT, FROM, WHERE
     - [ ] ORDER BY, LIMIT
@@ -57,6 +62,7 @@
     - [ ] MIN, MAX
 
 - [ ] Jointures de tables
+
   - [ ] INNER JOIN
   - [ ] LEFT JOIN
   - [ ] RIGHT JOIN
@@ -64,6 +70,7 @@
   - [ ] Bonnes pratiques
 
 - [ ] Insertion de données
+
   - [ ] INSERT INTO
     - [ ] Insertion simple
     - [ ] Insertion multiple
@@ -71,6 +78,7 @@
   - [ ] Gestion des erreurs courantes
 
 - [ ] Modification de données
+
   - [ ] UPDATE
     - [ ] Mise à jour simple
     - [ ] Avec conditions WHERE
@@ -78,6 +86,7 @@
   - [ ] Bonnes pratiques de sécurité
 
 - [ ] Suppression de données
+
   - [ ] DELETE
     - [ ] Avec conditions
     - [ ] Bonnes pratiques
