@@ -33,15 +33,15 @@
   - [x] DEFAULT
   - [x] CHECK (basique)
 
-- [ ] Index
+- [x] Index
 
-  - [ ] Création d'index simples
-  - [ ] Quand utiliser les index
-  - [ ] Impact sur les performances
+  - [x] Création d'index simples
+  - [x] Quand utiliser les index
+  - [x] Impact sur les performances
 
 - [ ] Exercices pratiques
-  - [ ] Création d'une base de données pour un cas concret
-  - [ ] Mise en place des tables et relations
+  - [x] Création d'une base de données pour un cas concret
+  - [x] Mise en place des tables et relations
   - [ ] Ajout des contraintes nécessaires
   - [ ] Modification de structure existante
 
