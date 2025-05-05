@@ -15,35 +15,35 @@
   - [x] Comprendre la compilation et l'exécution en Java
   - [x] Compiler et exécuter son premier programme sans IDE
 
-- [ ] Découvrir la syntaxe basique
+- [x] Découvrir la syntaxe basique
   - [x] Réaliser une classe minimale
   - [x] Utiliser la méthode d’entrée de l’application
   - [x] Afficher des informations dans la console
   - [x] Savoir récupérer des informations saisies au clavier
-  - [ ] Utiliser les structures conditionnelles
-  - [ ] Connaître les différentes structures répétitives
+  - [x] Utiliser les structures conditionnelles
+  - [x] Connaître les différentes structures répétitives
 
-- [ ] Découvrir le mécanisme de typage 
-  - [ ] Comprendre les types existants
-  - [ ] Savoir convertir les variables d'un type à un autre
+- [x] Découvrir le mécanisme de typage 
+  - [x] Comprendre les types existants
+  - [x] Savoir convertir les variables d'un type à un autre
 
 - [ ] Premiers pas en POO
-  - [ ] Comprendre les concepts fondamentaux de la POO en Java
-    - [ ] Classes et Objets
-    - [ ] Attributs et Méthodes
-    - [ ] Constructeurs
-  - [ ] Définir une classe avec attributs
-  - [ ] Créer une instance
-  - [ ] Appeler une méthode d'instance
+  - [x] Comprendre les concepts fondamentaux de la POO en Java
+    - [x] Classes et Objets
+    - [x] Attributs et Méthodes
+    - [x] Constructeurs
+  - [x] Définir une classe avec attributs
+  - [x] Créer une instance
+  - [x] Appeler une méthode d'instance
 
 - [ ] Comprendre et corriger les erreurs
   - [ ] Lire un message de compilation
   - [ ] Stratégies de débogage de base
 
 - [ ] Pour aller plus loin (optionnel)
-  - [ ] Comprendre l'utilisation de Maven
-  - [ ] Installer et configurer Maven sur son environnement
-  - [ ] Savoir lire un fichier pom.xml
+  - [x] Comprendre l'utilisation de Maven
+  - [x] Installer et configurer Maven sur son environnement
+  - [x] Savoir lire un fichier pom.xml
   - [ ] Créer un 1er projet Web à l'aide de SpringBoot
 
 - [ ] Exercices pratiques
