@@ -10,11 +10,11 @@
   - [x] Orientée objet
   - [x] Fonctionnelle
 - [ ] Découverte des concepts clés de la POO :
-  - [ ] Classe
-  - [ ] Objet
-  - [ ] Attribut
-  - [ ] Méthode
-  - [ ] Instanciation
-  - [ ] Constructeur
-  - [ ] Accesseurs
-  - [ ] Encapsulation
+  - [x] Classe
+  - [x] Objet
+  - [x] Attribut
+  - [x] Méthode
+  - [x] Instanciation
+  - [x] Constructeur
+  - [x] Accesseurs
+  - [x] Encapsulation
