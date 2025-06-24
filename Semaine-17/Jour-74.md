@@ -6,17 +6,17 @@
 
 Ressource : [Formation Docker](https://github.com/HachemiH/formation-docker)
 
-- [ ] Révision des concepts fondamentaux
-  - [ ] Différence entre conteneurs et machines virtuelles
-  - [ ] Architecture Docker
-  - [ ] Images et conteneurs
-  - [ ] Registres et Docker Hub
+- [x] Révision des concepts fondamentaux
+  - [x] Différence entre conteneurs et machines virtuelles
+  - [x] Architecture Docker
+  - [x] Images et conteneurs
+  - [x] Registres et Docker Hub
 
-- [ ] Révision des commandes essentielles
-  - [ ] Gestion des conteneurs (run, start, stop, exec)
-  - [ ] Gestion des images (pull, build, push)
-  - [ ] Gestion des volumes
-  - [ ] Gestion des réseaux
+- [x] Révision des commandes essentielles
+  - [x] Gestion des conteneurs (run, start, stop, exec)
+  - [x] Gestion des images (pull, build, push)
+  - [x] Gestion des volumes
+  - [x] Gestion des réseaux
 
 - [ ] Révision Dockerfile et Docker Compose
   - [ ] Instructions Dockerfile
