@@ -20,6 +20,7 @@
 
 ### Introduction aux bases de données relationnelles
 
+<<<<<<< HEAD
 - [x] Comprendre les concepts fondamentaux
   - [x] Tables et relations
   - [x] Clés primaires et étrangères
@@ -39,6 +40,27 @@
   - [x] Différences avec d'autres SGBD
   - [x] Avantages de PostgreSQL
   - [x] Cas d'usage adaptés
+=======
+- [ ] Comprendre les concepts fondamentaux
+  - [ ] Tables et relations
+  - [ ] Clés primaires et étrangères
+  - [ ] Normalisation
+  - [ ] Intégrité référentielle
+  
+- [ ] Vue d'ensemble des différents types de commandes SQL
+  - [ ] DDL (Data Definition Language)
+  - [ ] DML (Data Manipulation Language)
+  - [ ] DCL (Data Control Language)
+  - [ ] TCL (Transaction Control Language)
+
+### Introduction à PostgreSQL
+
+- [ ] Découverte de PostgreSQL
+  - [ ] Histoire et philosophie de PostgreSQL
+  - [ ] Différences avec d'autres SGBD
+  - [ ] Avantages de PostgreSQL
+  - [ ] Cas d'usage adaptés
+>>>>>>> cca8d5d2080c31e51acb2403759e38c2fd973beb
 
 - [ ] Architecture de PostgreSQL
   - [ ] Structure générale
