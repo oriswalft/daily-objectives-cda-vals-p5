@@ -3,15 +3,11 @@
 ## Objectifs du jour
 
 ### Création et manipulation d'une base de données 
-<<<<<<< HEAD
+
 - [x] Création d'une base de données complète
   - [x] Définition du schéma de la base
   - [x] Création des tables avec relations
-=======
-- [ ] Création d'une base de données complète
-  - [ ] Définition du schéma de la base
-  - [ ] Création des tables avec relations
->>>>>>> cca8d5d2080c31e51acb2403759e38c2fd973beb
+
 
 - [ ] Import de données avec Mockaroo
   - [ ] Découverte de Mockaroo
@@ -30,7 +26,7 @@
 
 ### SQL - Data Control Language (DCL) avec PostgreSQL
 
-<<<<<<< HEAD
+
 - [x] Gestion des utilisateurs
   - [x] Création d'utilisateurs
     - [x] CREATE USER
@@ -65,39 +61,4 @@
   - [x] Création des utilisateurs pour une application
   - [x] Mise en place des droits appropriés
   - [x] Tests de sécurité basiques 
-=======
-- [ ] Gestion des utilisateurs
-  - [ ] Création d'utilisateurs
-    - [ ] CREATE USER
-    - [ ] Définition du mot de passe
-  - [ ] Modification d'utilisateurs
-    - [ ] ALTER USER
-    - [ ] Changement de mot de passe
-  - [ ] Suppression d'utilisateurs
-    - [ ] DROP USER
-    - [ ] Précautions à prendre
 
-- [ ] Gestion des droits
-  - [ ] Privilèges de base
-    - [ ] SELECT
-    - [ ] INSERT
-    - [ ] UPDATE
-    - [ ] DELETE
-  - [ ] Attribution des droits
-    - [ ] GRANT
-    - [ ] Sur les tables
-    - [ ] Sur les bases de données
-  - [ ] Révocation des droits
-    - [ ] REVOKE
-    - [ ] Impact sur les utilisateurs
-
-- [ ] Bonnes pratiques de sécurité
-  - [ ] Principe du moindre privilège
-  - [ ] Gestion des mots de passe
-  - [ ] Documentation des droits
-
-- [ ] Exercices pratiques
-  - [ ] Création des utilisateurs pour une application
-  - [ ] Mise en place des droits appropriés
-  - [ ] Tests de sécurité basiques 
->>>>>>> cca8d5d2080c31e51acb2403759e38c2fd973beb
