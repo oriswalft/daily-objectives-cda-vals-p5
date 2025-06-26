@@ -19,15 +19,14 @@ Ressource : [Formation GitHub Actions](https://github.com/HachemiH/formation-git
   - [x] Explorer l'interface GitHub Actions
   - [x] Comprendre la facturation et les limites
 
-
-- [ ] Composants de base
-  - [ ] Workflows
-  - [ ] Jobs
-  - [ ] Steps
-  - [ ] Actions
-  - [ ] Runners
+- [x] Composants de base
+  - [x] Workflows
+  - [x] Jobs
+  - [x] Steps
+  - [x] Actions
+  - [x] Runners
 
 - [ ] Travaux Pratiques
-  - [ ] Explorer le Marketplace GitHub Actions
+  - [x] Explorer le Marketplace GitHub Actions
   - [ ] Analyser des workflows existants
   - [ ] Préparer son environnement de travail 
