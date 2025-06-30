@@ -21,11 +21,11 @@ Ressource : [Formation GitHub Actions](https://github.com/HachemiH/formation-git
 
 
 - [ ] Composants de base
-  - [ ] Workflows
-  - [ ] Jobs
-  - [ ] Steps
-  - [ ] Actions
-  - [ ] Runners
+  - [x] Workflows
+  - [x] Jobs
+  - [x] Steps
+  - [x] Actions
+  - [x] Runners
 
 - [ ] Travaux Pratiques
   - [ ] Explorer le Marketplace GitHub Actions

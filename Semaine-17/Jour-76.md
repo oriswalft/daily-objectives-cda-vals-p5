@@ -6,11 +6,11 @@
 
 Ressource : [Formation GitHub Actions](https://github.com/HachemiH/formation-github-actions)
 
-- [ ] Création de workflows
-  - [ ] Structure des fichiers YAML
-  - [ ] Syntaxe de base
-  - [ ] Emplacement des workflows
-  - [ ] Bonnes pratiques de nommage
+- [x] Création de workflows
+  - [x] Structure des fichiers YAML
+  - [x] Syntaxe de base
+  - [x] Emplacement des workflows
+  - [x] Bonnes pratiques de nommage
 
 - [ ] Configuration des déclencheurs
   - [ ] Événements push et pull_request
